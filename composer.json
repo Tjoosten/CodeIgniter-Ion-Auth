@@ -1,0 +1,7 @@
+{
+	"name": "benedmunds/ionauth",
+	"type": "codeigniter-library",
+	"require": {
+		"compwright/codeigniter-installers": "*"
+	}
+}
