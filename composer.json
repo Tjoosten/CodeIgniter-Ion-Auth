@@ -3,5 +3,8 @@
 	"type": "codeigniter-library",
 	"require": {
 		"compwright/codeigniter-installers": "*"
+	},
+	"extra": {
+		"codeigniter-application-dir": "./application",
 	}
 }
