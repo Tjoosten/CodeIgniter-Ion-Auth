@@ -5,6 +5,6 @@
 		"compwright/codeigniter-installers": "*"
 	},
 	"extra": {
-		"codeigniter-application-dir": "./application",
+		"codeigniter-application-dir": "./application"
 	}
 }
